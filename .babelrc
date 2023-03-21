@@ -1,0 +1,6 @@
+{
+  "presets": ["vue", "es2015", "stage-0"],
+  "plugins": [
+    "@babel/plugin-proposal-optional-chaining"
+  ]
+}
