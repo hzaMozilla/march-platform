@@ -29,7 +29,7 @@ const items = [
     ]
   },
   {
-    index: '5',
+    index: '2',
     icon: 'el-icon-edit',
     name: '职能管理',
     href: '/admin/group',
